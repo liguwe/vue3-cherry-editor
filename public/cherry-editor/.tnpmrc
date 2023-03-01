@@ -1,0 +1,5 @@
+
+            //{{TNPM_DOMAIN}}/:_password="{{TNPM_PASSWORD}}"
+            //{{TNPM_DOMAIN}}/:username={{TNPM_USERNAME}}
+            //{{TNPM_DOMAIN}}/:email={{TNPM_EMAIL}}
+            //{{TNPM_DOMAIN}}/:always-auth=false
